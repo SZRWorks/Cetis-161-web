@@ -1,6 +1,6 @@
  html {
  	--items-acent-color: rgba(20, 20, 20,0.8);
- 	--borders-acent-color: #67D091;
+ 	--borders-acent-color: #67D091; 
  	--background-color: #808080;
  	background:url("../images/Nice.gif");
  	height: 100%;
